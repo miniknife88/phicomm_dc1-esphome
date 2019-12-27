@@ -18,7 +18,7 @@ substitutions:
   #WiFi_SSID名称
   wifi_ssid: $device_name
   #WiFi密码
-  wifi_password: '12345678'
+  wifi_password: '806280'
   #如果SSID是隐藏的，设置为true
   wifi_fast_connect: 'false'
   #WiFi离线多久后重启设备，秒s/分钟min/小时h，不需要此功能设置为0s
